@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=dart,flutter,firebase,vscode,androidstudio,git,github&theme=dark" />
+    <img src="https://skillicons.dev/icons?i=java,mysql,dart,flutter,firebase,html,css,js,vscode,androidstudio,git,github&theme=light" />
   </a>
 </div>
 
