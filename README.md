@@ -19,7 +19,9 @@
   <a href="https://arun-showcase.web.app/" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/5041/5041153.png" width="60" height="60" alt="web logo"  />
   </a>
- 
+  <a href="https://leetcode.com/u/arun07160/" target="_blank">
+    <img src="https://repository-images.githubusercontent.com/660115526/cbbcd367-535a-4e9d-927b-9eacd8d652e8" width="60" height="60" alt="web logo"  />
+  </a>
 </div>
 
 # 📊 GitHub Stats:
