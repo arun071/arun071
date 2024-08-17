@@ -1,11 +1,11 @@
 # 💫 About Me:
-🔭 I’m currently fresher<br>🤝 I’m looking for a job<br>🌱 I’m currently learning Flutter<br>💬 Ask me about<br>⚡ Fun fact
+🔭 I’m currently fresher<br>🤝 I’m looking for a job<br>🌱 I’m currently learning React<br>💬 Ask me about<br>⚡ Fun fact
 
 
 # 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=java,mysql,dart,flutter,firebase,html,css,js,vscode,androidstudio,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,mysql,git,github&theme=light" />
   </a>
 </div>
 
