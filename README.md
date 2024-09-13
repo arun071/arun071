@@ -5,7 +5,7 @@
 # 💻 Tech Stack:
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,java,mysql,git,github&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,java,spring,git,github,docker&theme=light" />
   </a>
 </div>
 
