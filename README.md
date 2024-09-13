@@ -3,9 +3,24 @@
 
 
 # 💻 Tech Stack:
+### Frontend
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,mysql,java,spring,git,github,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,&theme=light" />
+  </a>
+</div>
+
+### Backend
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,java,spring&theme=light" />
+  </a>
+</div>
+
+### Tools
+<div align="left">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" />
   </a>
 </div>
 
