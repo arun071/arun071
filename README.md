@@ -20,7 +20,7 @@
 ### Tools
 <div align="left">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=git,github,postman,docker&theme=light" />
+    <img src="https://skillicons.dev/icons?i=git,github,maven,postman,docker,jenkins,aws&theme=light" />
   </a>
 </div>
 
